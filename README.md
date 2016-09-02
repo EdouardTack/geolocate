@@ -6,11 +6,12 @@ To geolocate you, it use the googleapis geolocation
 
 [Demonstration of geolocate](http://www.tackacoder.fr/geolocate/)
 
-Load the library
+Load the library and language file
 
 ```html
 <link rel="stylesheet" href="dist/geolocate.min.css">
 <script src="dist/geolocate.min.js" type="text/javascript"></script>
+<script src="lib/geolocate/i18n/fr.js" type="text/javascript"></script>
 ```
 
 and then use it
