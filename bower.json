@@ -1,0 +1,29 @@
+{
+  "name": "geolocate",
+  "homepage": "https://github.com/EdouardTack/geolocate",
+  "version": "1.0.0",
+  "authors": [
+    "Tackacoder <edouard@tackacoder.fr>"
+  ],
+  "description": "Javascript/jQuery Geolocation box. Use instead of the navigator.geolocation",
+  "main": [
+    "lib/geolocate/geolocate.js",
+    "lib/geolocate/geolocate.css"
+  ],
+  "keywords": [
+    "javascript",
+    "jquery",
+    "geolocate",
+    "navigator",
+    "geolocation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
