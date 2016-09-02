@@ -1,6 +1,6 @@
 /* ========================================================================
  * @author Edouard Tack <edouard@tackacoder.fr>
- * Geolocate main version 0.0.1 dev
+ * Geolocate main version 1.0.0
  * Licensed under MIT (https://github.com/EdouardTack/geolocate/blob/master/LICENSE)
  * ======================================================================== */
 
